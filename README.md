@@ -2,7 +2,7 @@
 <h3 align="center">Second-Year Computer Engineering Student | Frontend Developer As a dedicated frontend developer, I specialize in React, Vanilla JavaScript, HTML, and CSS. My passion lies in crafting intuitive, user-centric web applications, combining technical expertise with a focus on responsive and visually appealing design. I have successfully contributed to both solo and team projects, demonstrating leadership in task allocation and ensuring effective collaboration for timely project completion.</h3>
 
 ## 🚀 About Me
-- 🌱 I’m a Computer Engineering sophomore at VESIT (D7B).
+- 🌱 I’m a Computer Engineering sophomore at VESIT .
 - 💻 Frontend enthusiast, proficient in React, Vanilla JS, HTML, and CSS.
 - 🌱 Currently exploring Machine Learning and expanding my knowledge in C++.
 
